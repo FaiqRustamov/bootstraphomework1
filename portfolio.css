@@ -1,0 +1,102 @@
+
+.navbar-name{
+    float: left;
+background-color: rgba(104, 121, 121, 0.342);
+height: 90px;
+width: 250px;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+text-decoration: none;
+color:black;
+font-size: 30px;
+font-weight: 700;
+line-height: 90px;
+}
+.navbar-name:hover{
+    background-color: rgb(12, 207, 38);
+
+}
+body, html {
+    background:url(" https://www.toptal.com/designers/subtlepatterns/patterns/concrete_seamless.png");
+
+}
+.github,.linkedin,.stackoverflow{
+    width: 50px;
+    height: 50px;
+    
+    }
+    .connect{
+
+        float:right;
+         margin: 10px 171px 10px 10px;
+         width:280px;
+         background-color: rgb(12, 207, 38);
+    
+         text-align: center;
+         padding:30px;
+     }
+     footer{
+        padding: 15px 0px;
+        clear: both;
+        font-size: 13px;
+        color: white;
+        text-align: center;
+        background: gray;
+        border-top: 7px solid rgb(27, 26, 26);
+        margin-left: -9px;
+        width: 100.9%;
+        }
+        .h1-connect{
+            padding-bottom: 20px;
+            font-size: 30px;
+            line-height: 49px;
+            border-bottom: 3px solid rgb(12, 207, 38);;
+            font-family: Georgia, Times, "Times New Roman", serif;
+        font-weight: 700;
+        color:rgb(12, 207, 38);
+        }
+        .nav-link{
+            color:rgb(12, 207, 38);
+
+        }
+        .main-container{
+            float: left;
+            width: 100%;
+            max-width: 650px;
+            padding: 30px;
+            margin: 0 0 40px;
+            background: #fff;
+            border: 1px solid #ddd;
+        }
+        .portfolio-myportfolio{
+            font-family: Georgia, Times, "Times New Roman", serif;
+            font-weight: 700;
+            color:rgb(12, 207, 38);
+        }
+        .hobby{
+            position: relative;
+    float: left;
+    width: 274px;
+    margin: 20px 0 25px;
+    overflow: auto;
+    margin-left: 10px;
+        }
+        .hobby-img1{
+         width: 274px;
+         height: 150px;
+    border: 0 none;
+    opacity: 0.8;
+        }
+        .hobby-img1-h3{
+            position: absolute;
+    bottom: 20px;
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 0;
+    font-weight: 300;
+    line-height: 30px;
+    color: #fff;
+    text-align: center;
+    background:rgb(12, 207, 38);
+    border-bottom: 0
+        }

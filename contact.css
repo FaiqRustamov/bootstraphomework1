@@ -1,0 +1,174 @@
+body, html {
+    background:url(" https://www.toptal.com/designers/subtlepatterns/patterns/concrete_seamless.png");
+
+}
+
+.index_index {    
+    float: left;
+    width: 250px;
+    height: 90px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    background: darkslategray;
+    color: white;
+}
+
+.divheader{
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    margin: 0 0 30px;
+    overflow: auto;
+    border-bottom: 2px solid white;
+    background: gray;
+    color: aliceblue;
+    margin-top: -8px;
+    margin-left: -8px;
+
+}
+
+.head{
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    clear: both;
+    box-shadow: 5px 10px gray;
+}
+
+.index_about, .index_portfolio, .index_contact{
+    float: right;
+    margin-top: 25px;
+    display: inline-block;
+    padding-left: 15px;
+    margin-left: 15px;
+    line-height: 18px;
+    text-decoration: none;
+    color: white;
+    border-left: 1px solid white;
+
+}
+
+#ase {
+    padding-top: 130px;
+
+}
+
+.asesection{
+    float: left;
+    width: 100%;
+    max-width: 650px;
+    padding: 30px;
+    margin: 0 0 40px;
+    border: 1px solid white;
+    background: gray;
+    color: white;
+
+}
+
+.indeximage {
+    float: left;
+    width: 200px;
+    height: auto;
+    margin-top: 10px;
+    margin-right: 25px;
+
+}
+
+.container {
+    width: 70%;
+    max-width: 960px;
+    margin: 0 auto;
+    clear: both;
+    
+}
+
+
+.navbar-name{
+    float: left;
+background-color: rgba(104, 121, 121, 0.342);
+height: 90px;
+width: 250px;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+text-decoration: none;
+color:black;
+font-size: 30px;
+font-weight: 700;
+line-height: 90px;
+}
+.navbar-name:hover{
+    background-color: rgb(12, 207, 38);
+
+}
+.master-head{
+  
+    z-index: 99;
+    width: 100%;
+    margin: 0 0 30px;
+    overflow: auto;
+    color: black;
+    background: gray;
+    border-bottom: 2px solid #ccc;;
+}
+.footer{
+    padding: 10px 0;
+    clear: both;
+    font-size: 12px;
+    color: #fff;
+    color: #ccc;
+    text-align: center;
+    background: #666;
+    border-top: 8px solid  rgb(12, 207, 38);
+    ;
+}
+.connect{
+
+    float:right;
+     margin: 10px 171px 10px 10px;
+     width:280px;
+     background-color: rgb(12, 207, 38);
+
+     text-align: center;
+     padding:30px;
+ }
+ .github,.linkedin,.stackoverflow{
+    width: 50px;
+    height: 50px;
+    
+    }
+    .myform{
+        float: left;
+        width: 50%;
+        padding:30px;
+        border:1px solid black;
+        margin: 10px 10px 10px 10px;
+    }
+    .submit:hover{
+        background-color: rgb(12, 207, 38);
+    
+    }
+    .submit{
+        color: white;
+        background: black;
+    }
+    .h1-connect{
+        padding-bottom: 20px;
+        font-size: 30px;
+        line-height: 49px;
+        border-bottom: 3px solid rgb(12, 207, 38);;
+        font-family: Georgia, Times, "Times New Roman", serif;
+    font-weight: 700;
+    color:rgb(12, 207, 38);;
+    }
+    .main-section{
+        float: left;
+        width: 100%;
+        max-width: 650px;
+        padding: 30px;
+        margin: 0 0 40px;
+        background: #fff;
+        border: 1px solid #ddd;
+    }
